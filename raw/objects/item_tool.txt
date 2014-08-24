@@ -140,7 +140,7 @@ item_tool
 
 [ITEM_TOOL:ITEM_TOOL_NEST_BOX]
 [NAME:nest box:nest boxes]
-[VALUE:8]
+[VALUE:10]
 [HARD_MAT]
 [TOOL_USE:NEST_BOX]
 [TILE:8]
