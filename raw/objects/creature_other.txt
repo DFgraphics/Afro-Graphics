@@ -431,7 +431,7 @@ creature_other
 	[DESCRIPTION:A tiny translucent creature, found in evil forests.]
 	[NAME:phantom spider:phantom spiders:phantom spider]
 	[CASTE_NAME:phantom spider:phantom spiders:phantom spider]
-	[CREATURE_TILE:38][COLOR:7:0:1]
+	[CREATURE_TILE:147][COLOR:7:0:1]
 	[CARNIVORE]
 	[PET_EXOTIC][EVIL]
 	[PARALYZEIMMUNE]

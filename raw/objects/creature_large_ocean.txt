@@ -82,7 +82,7 @@ creature_large_ocean
 	[NAME:sea lamprey:sea lampreys:sea lamprey]
 	[CASTE_NAME:sea lamprey:sea lampreys:sea lamprey]
 	[CHILD:1][GENERAL_CHILD_NAME:larval sea lamprey:larval sea lampreys]
-	[CREATURE_TILE:146][COLOR:0:0:1]
+	[CREATURE_TILE:130][COLOR:0:0:1]
 	[LARGE_ROAMING]
 	[AQUATIC][UNDERSWIM][IMMOBILE_LAND]
 	[LARGE_PREDATOR][NATURAL]
