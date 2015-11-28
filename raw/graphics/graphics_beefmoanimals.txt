@@ -4,7 +4,7 @@ graphics_animals_png
 
 *********************************************
 [TILE_PAGE:BIRDS]
-	[FILE:beefmo/animals/creature_birds.png]
+	[FILE:Beefmo/Animals/creature_birds.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:87:6]
 *********************************************
@@ -338,7 +338,7 @@ CREATURE_GRAPHICS:BUSHTIT_MAN
 
 *********************************************
 [TILE_PAGE:DOMESTIC]
-	[FILE:beefmo/animals/creature_domestic.png]
+	[FILE:Beefmo/Animals/creature_domestic.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:22:6]
 *********************************************
@@ -463,7 +463,7 @@ CREATURE_GRAPHICS:BUSHTIT_MAN
 
 ***************************************************
 [TILE_PAGE:LMOUNTAIN]
-	[FILE:beefmo/animals/creature_large_mountain.png]
+	[FILE:Beefmo/Animals/creature_large_mountain.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:5:6]
 ***************************************************
@@ -496,7 +496,7 @@ CREATURE_GRAPHICS:BUSHTIT_MAN
 
 ***************************************************
 [TILE_PAGE:LRIVERLAKE]
-	[FILE:beefmo/animals/creature_large_riverlake.png]
+	[FILE:Beefmo/Animals/creature_large_riverlake.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:8:6]
 ***************************************************
@@ -553,7 +553,7 @@ CREATURE_GRAPHICS:BUSHTIT_MAN
 
 ***************************************************
 [TILE_PAGE:LTEMPERATE]
-	[FILE:beefmo/animals/creature_large_temperate.png]
+	[FILE:Beefmo/Animals/creature_large_temperate.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:88:6]
 ***************************************************
@@ -1034,7 +1034,7 @@ CREATURE_GRAPHICS:BUSHTIT_MAN
 
 ***************************************************
 [TILE_PAGE:LTROPICAL]
-	[FILE:beefmo/animals/creature_large_tropical.png]
+	[FILE:Beefmo/Animals/creature_large_tropical.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:29:6]
 ***************************************************
@@ -1235,7 +1235,7 @@ CREATURE_GRAPHICS:BUSHTIT_MAN
 
 *************************************************
 [TILE_PAGE:LTUNDRA]
-	[FILE:beefmo/animals/creature_large_tundra.png]
+	[FILE:Beefmo/Animals/creature_large_tundra.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:9:6]
 *************************************************
@@ -1299,7 +1299,7 @@ CREATURE_GRAPHICS:BUSHTIT_MAN
 
 *********************************************
 [TILE_PAGE:ANIMALS]
-	[FILE:beefmo/animals/animals.png]
+	[FILE:Beefmo/Animals/animals.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:12:30]
 *********************************************
@@ -1402,7 +1402,7 @@ CREATURE_GRAPHICS:BUSHTIT_MAN
 
 *********************************************
 [TILE_PAGE:WATER]
-	[FILE:beefmo/animals/water.png]
+	[FILE:Beefmo/Animals/water.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:4:7]
 *********************************************
@@ -1417,7 +1417,7 @@ CREATURE_GRAPHICS:BUSHTIT_MAN
 	[DEFAULT:WATER:0:1:AS_IS:DEFAULT]
 	[CHILD:WATER:1:1:AS_IS:DEFAULT]
 	[STANDARD:WATER:2:1:AS_IS:ANIMATED]
-	
+
 [CREATURE_GRAPHICS:SEA_SERPENT]
 	[DEFAULT:WATER:0:2:AS_IS:DEFAULT]
 	[CHILD:WATER:1:2:AS_IS:DEFAULT]
@@ -1428,7 +1428,7 @@ CREATURE_GRAPHICS:BUSHTIT_MAN
 
 *********************************************
 [TILE_PAGE:BEASTS]
-	[FILE:beefmo/animals/beasts.png]
+	[FILE:Beefmo/Animals/beasts.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:6:4]
 *********************************************
@@ -1459,7 +1459,7 @@ CREATURE_GRAPHICS:BUSHTIT_MAN
 
 *********************************************
 [TILE_PAGE:MANS]
-	[FILE:beefmo/animals/mans.png]
+	[FILE:Beefmo/Animals/mans.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:12:17]
 *********************************************
@@ -1587,7 +1587,7 @@ CREATURE_GRAPHICS:BUSHTIT_MAN
 
 [CREATURE_GRAPHICS:IMP_FIRE]
 	[DEFAULT:MANS:6:10:AS_IS:DEFAULT]
-	
+
 
 
 [CREATURE_GRAPHICS:DEMON]
@@ -1605,8 +1605,8 @@ CREATURE_GRAPHICS:BUSHTIT_MAN
 
 *********************************************
 [TILE_PAGE:NB]
-	[FILE:beefmo/animals/creature_next_underground.png]     
-	[TILE_DIM:16:16]     
+	[FILE:Beefmo/Animals/creature_next_underground.png]
+	[TILE_DIM:16:16]
 	[PAGE_DIM:30:6]
 *********************************************
 
