@@ -100,7 +100,7 @@ On cards that support the OpenGL ARB_sync extension, turning this on can improve
 
 This sets the applications vertical synchronization behavior.  Changing this to YES can impact your FPS if your G_FPS is high. ARB_SYNC is a better option, if your system supports it.
 
-[VSYNC:YES]
+[VSYNC:NO]
 
 Change this to NEAREST if you want the texture values to use the nearest pixel without averaging.
 Change this to LINEAR if you want the texture values to be averaged over the adjacent pixels.
