@@ -1,8 +1,8 @@
-Afro color scheme (with TrueType blacks fix)
+Afro color scheme
 
-[BLACK_R:0]
-[BLACK_G:0]
-[BLACK_B:0]
+[BLACK_R:32]
+[BLACK_G:39]
+[BLACK_B:49]
 [BLUE_R:0]
 [BLUE_G:106]
 [BLUE_B:255]
