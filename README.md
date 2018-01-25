@@ -80,7 +80,7 @@ To install all the TWBT content,
  * Copy the contents of the /data/twbt\_init/ folder to the /data/init/.
  * Copy the contents of the /raw/twbt\_graphics/ folder to the /raw/graphics/.
  * Copy the contents of the /raw/twbt\_objects/ folder to the /raw/objects/.
- * Copy the onLoad\_gfx\_Afro.init file into the /raw/ folder.
+ * Copy the "onLoad\_gfx\_Afro.init" file into the /raw/ folder.
 
 
 2.1.2 - Installing only the Transparent Backgrounds for Creature Graphics TWBT content:  
@@ -98,7 +98,7 @@ Edit the non-TWBT /data/init/init.txt file to set the print mode to "TWBT".
 To get some buildings, items, and furniture with transparent backgrounds,
 
  * Copy the contents of the /data/twbt\_art/ folder into the /data/art/.
- * Copy the overrides.txt files from the /data/twbt\_init/ folder into the /data/init/ folder.
+ * Copy the "overrides.txt" file from the /data/twbt\_init/ folder into the /data/init/ folder.
  * Edit the non-TWBT /data/init/init.txt file to set the print mode to "TWBT".
 
 
@@ -106,7 +106,7 @@ To get some buildings, items, and furniture with transparent backgrounds,
 To get more readable, space-efficient text,
 
  * Copy the contents of the /data/twbt\_art/ folder into the /data/art/.
- * Copy the init.txt file from the /data/twbt\_init/ folder into the /data/init/ folder.
+ * Copy the "init.txt" file from the /data/twbt\_init/ folder into the /data/init/ folder.
  * Copy the contents of the /raw/twbt\_objects/ folder into the /raw/objects/ folder.
 
 
