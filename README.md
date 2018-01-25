@@ -71,7 +71,7 @@ If you wish to use these components, additional steps need to be taken.
 In all of these steps, the TWBT components need to be installed over normal graphics pack 
 components so that the TWBT content overwrites the regular graphics pack content. It's 
 probably easiest to install the TWBT content into the normal graphics pack folders before
-then copying them all to your copy of Dwarf Fortress.
+then copying those all into your copy of Dwarf Fortress.
 
 2.1.1 - Installing all the TWBT content:  
 To install all the TWBT content, 
@@ -98,7 +98,7 @@ Edit the non-TWBT /data/init/init.txt file to set the print mode to "TWBT".
 To get some buildings, items, and furniture with transparent backgrounds,
 
  * Copy the contents of the /data/twbt\_art/ folder into the /data/art/.
- * Copy the overrides.txt files from the /data/twbt\_init/ folder into the /data/init/.
+ * Copy the overrides.txt files from the /data/twbt\_init/ folder into the /data/init/ folder.
  * Edit the non-TWBT /data/init/init.txt file to set the print mode to "TWBT".
 
 
@@ -106,7 +106,8 @@ To get some buildings, items, and furniture with transparent backgrounds,
 To get more readable, space-efficient text,
 
  * Copy the contents of the /data/twbt\_art/ folder into the /data/art/.
- * Copy the init.txt file from the /data/twbt\_init/ folder into the /data/init/.
+ * Copy the init.txt file from the /data/twbt\_init/ folder into the /data/init/ folder.
+ * Copy the contents of the /raw/twbt\_objects/ folder into the /raw/objects/ folder.
 
 
 ________________________________________
@@ -118,7 +119,7 @@ There's some way to place images here; I'm sure.
 ________________________________________
 3.0 - Credits:
 ________________________________________
-/u/AfroToast43
+- /u/AfroToast43
 - Beefmo (for his humans and critters files)
 - Rexor (for the goblin art i based kobolds off of)
 - Mike Mayday(Art Goblin) (for his graphics pack)
