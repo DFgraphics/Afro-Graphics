@@ -23,7 +23,8 @@ ________________________________________
 ________________________________________
 This graphics pack requires the "SDL Windows", Mac, or Linux version of Dwarf Fortress.
 
-Additionally, the creature graphics of this graphics pack (located in the /raw/graphics/ 
+Additionally, the main tilesets (located in the /data/art/ folder) need one of the above 
+versions from v0.31.04 or later, and the creature graphics (located in the /raw/graphics/ 
 folder) require one of the above versions from v0.31.05 or later.
 
 Most critically, the raw data objects (located in the /raw/objects/ folder) are only 
