@@ -29,7 +29,7 @@ folder) require one of the above versions from v0.31.05 or later.
 Most critically, the raw data objects (located in the /raw/objects/ folder) are only 
 compatible with a *very limited* range of Dwarf Fortress versions. Trying to use these 
 objects files in version of Dwarf Fortress not compatible with them will likely cause 
-damage to save files. The versions of Dwarf Fortres that the included objects files are 
+damage to save files. The versions of Dwarf Fortress that the included objects files are 
 compatible with are listed on the release page before you download them: 
 https://github.com/DFgraphics/Afro-Graphics/releases
 
