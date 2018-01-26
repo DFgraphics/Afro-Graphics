@@ -23,26 +23,25 @@ ________________________________________
 ________________________________________
 This graphics pack requires the "SDL Windows", Mac, or Linux version of Dwarf Fortress.
 
-The main tilesets (located in the /data/art/ folder) and the creature graphics of 
-this graphics pack (located in the /raw/graphics/ folder) require any version of 
-Dwarf Fortress from v0.31.05 or later.
+Additionally, the creature graphics of this graphics pack (located in the /raw/graphics/ 
+folder) require one of the above versions from v0.31.05 or later.
 
-More critically, the raw data objects (located in the /raw/objects/ folder) are only 
+Most critically, the raw data objects (located in the /raw/objects/ folder) are only 
 compatible with a *very limited* range of Dwarf Fortress versions. Trying to use these 
-objects files in an incompatible version of Dwarf Fortress cause damage save files. 
-The versions of Dwarf Fortres that the included objects files are compatible with are 
-listed on thee release page before you download them: 
+objects files in version of Dwarf Fortress not compatible with them will likely cause 
+damage to save files. The versions of Dwarf Fortres that the included objects files are 
+compatible with are listed on the release page before you download them: 
 https://github.com/DFgraphics/Afro-Graphics/releases
 
 As for the content in the /data/init/ folder, it should generally be compatible with
-any version of Dwarf Fortress especially earlier versions than the listed in the range of 
-compatible versions, but could cause minor graphical issues when used with newer versions
-of Dwarf Fortress.
+any version of Dwarf Fortress (especially earlier versions than the listed in the range of 
+compatible versions), but could cause minor graphical issues when used with newer versions
+of Dwarf Fortress than the listed compatible versions.
 
-As a 16x16 graphics pack, this tileset looks best on at a display resolution of 
-1280 (horizontally) by 400 (vertically). At smaller screen resolutions, the game window 
-may take up more space than is available on your screen, but can be fixed by resizing 
-the game window which will cause the pixels to be drawn at a scaled-down size to fit.
+As a 16x16 graphics pack, this tileset looks best at a display resolution of at least
+1280 horizontally by 400 vertically. At smaller display resolutions, the game window 
+may take up more space than is available on your screen but can be fixed by resizing 
+the game window, which will cause the pixels to be drawn at a scaled-down size to-fit.
 
 
 ________________________________________
@@ -68,10 +67,10 @@ ________________________________________
 The Text Will Be Text (TWBT) plugin for DFHack allows many improvements to graphics.
 This pack includes optional components to take advantage of TWBT features.
 If you wish to use these components, additional steps need to be taken.
-In all of these steps, the TWBT components need to be installed over normal graphics pack 
-components so that the TWBT content overwrites the regular graphics pack content. It's 
-probably easiest to install the TWBT content into the normal graphics pack folders before
-then copying those all into your copy of Dwarf Fortress.
+In all of these steps, the TWBT components need to be installed over the normal graphics 
+pack components so that the TWBT content overwrites the regular graphics pack content. 
+It's probably easiest to install the TWBT content into the normal graphics pack folders 
+before then copying those all into your copy of Dwarf Fortress.
 
 2.1.1 - Installing all the TWBT content:  
 To install all the TWBT content, 
@@ -108,6 +107,7 @@ To get more readable, space-efficient text,
  * Copy the contents of the /data/twbt\_art/ folder into the /data/art/.
  * Copy the "init.txt" file from the /data/twbt\_init/ folder into the /data/init/ folder.
  * Copy the contents of the /raw/twbt\_objects/ folder into the /raw/objects/ folder.
+ (This last step is optional, but restores the full versions of the civilized languages.)
 
 
 ________________________________________
